@@ -1,0 +1,7 @@
+GB1900.ORG data
+GB1900.OG is a project XXX
+The gate keeper of these data is Michael Stoner, senior research associate and GIS-developer at University of Portsmouth Historical GIS Group
+Michael asks that any derived works based upon these data should NOT  be called "source data" or "derived from the gb1900.org gazetteer" but rather from "a nighty  snapshot of the RAW data donated by the the http://gb1900.org  volunteer contributors".
+Michael comments that the data are created by a community of volunteers and that "Now the "the visualisation assigns the visualisation red dot to the bottom LH corner of the first letter in the name which has been transcribed". He adds that "The users are asked to transcript the text andhighlight where that text starts the bottom of the First letter, so all locations will be offset." As a result "smaller features will be closer to the building". He continues that "The Zoom factor of the users view is also stored when the first pin is made, so that you can know which are "smaller" names... i.e. the whole world is zoom=0 and a building would be about zoom=24."
+Raw data for the wjole of Great Britain (England, Scotland and Wales, but not Northern Ireland) can be seen here: http://geo.nls.uk/maps/gb1900/#zoom=5&lat=56.0000&lon=-4.0000
+Raw data for the approximate area the Early Modern Thames Maphackathon is looking at (between London Bridge and Woolwich]: http://geo.nls.uk/maps/gb1900/#zoom=14&lat=51.5008&lon=-0.0067

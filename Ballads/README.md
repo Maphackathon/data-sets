@@ -13,7 +13,7 @@ Sue Wellfleat's Bargain (C 107/104, http://discovery.nationalarchives.gov.uk/det
 
 The Difficult Batchelor (HCA 32/160/18, http://discovery.nationalarchives.gov.uk/details/r/C14514131) is also a little racy but once again it is the woman who has, very firmly, the upper hand. This one was definitely owned by a sailor and is strangely hummable even without a tune. The first three lines presumably solo and then on the fourth line everyone joins in.
 
-The Shepherd's Holiday (SP 35/22/62, http://discovery.nationalarchives.gov.uk/details/r/C15389119) is an innocent seeming ballad to the singer's "dearest dear" but the government seemed to believe this was James Stuart, son of James II. The ballad unwisely states it was printed "printed for Flora, at the sign of Aurora, in Turn-again Lane", allowing this alleged den of Catholic sympathy to be georeferenced.
+The Shepherd's Holiday (SP 35/22/62, http://discovery.nationalarchives.gov.uk/details/r/C15389119) is an innocent seeming ballad to the singer's "dearest dear" but the government seemed to believe this was James Stuart, son of James II. The ballad unwisely states it was printed "printed for Flora, at the sign of Aurora, in Turn-again Lane", allowing this alleged den of Catholic sympathy to be georeferenced (and raided by the authorities).
 
 Two other tunes no self-respecting 18th century mariner would have been without are Hearts of Oak (https://www.youtube.com/watch?v=K3_GiLXK_KM) and Richard Leveridge's 'The Roast Beef of Old England' (https://www.youtube.com/watch?v=v5lhjYzbfco) which remains something of an earworm after nearly 300 years.
 

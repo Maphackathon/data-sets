@@ -7,9 +7,8 @@ CC0 licence released GB1900 raw gazetteer data dump of digital point data from t
 
 This work is made available under a Creative Commons 0 Licence, https://creativecommons.org/share-your-work/public-domain/cc0/
 
-This CC0 licence relates to this specific dataset. Other datasets available for download from the Great Britain Historical GIS Project are under a variety of licences. 
+This CC0 licence relates to this specific work. Other datasets available for download through the Great Britain Historical GIS Project are under a variety of licences. 
 	
-
 You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See Other Information below.
 
 Other Information
@@ -18,14 +17,8 @@ In no way are the patent or trademark rights of any person affected by CC0, nor 
 
 Unless expressly stated otherwise, the person who associated a work with this deed makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law.
 
-When using or citing the work, you should not imply endorsement by the author or the affirmer.
+Please reference this work as the "GB1900 raw gazetteer data dump" made available by the GB1900 Project.
 
+You may call any work you derive from this raw data dump whatever you like EXCEPT that you must not name your work "the GB1900 gazetteer", or any other name including "GB1900" or "Great Britain 1900". When using or citing the work, you should not imply endorsement by the GB1900 project or by any of the project partners.
 
-
-Acknowledgments are welcome. Please reference this dataset as the "GB1900 raw gazetteer data dump" made available by the GB1900 Project.
-Please DO NOT refer to this dataset as the GB1900 gazetteer.
-
-
-
-
-
+We welcome acknowledgments to the "GB1900 project" in any supporting documentation. We also welcome offers of collaboration in creating a definitive GB1900 gazetteer: contact us at GB1900@port.ac.uk.

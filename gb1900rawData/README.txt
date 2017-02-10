@@ -1,3 +1,10 @@
+
+This is a sub-set of the data we hold from the gb1900 database, it's a bounding box around an area of the Thames specified for the maphackathon.
+
+For the maphackahton we have provided data in github friendly native geojson collections, in CSV with the locations in either EWKT or geojson. 
+
+Here follows the standard readme for our raw data downloads: 
+
 README FILE
 
 GB1900 RAW GAZETTEER DATA DUMP 

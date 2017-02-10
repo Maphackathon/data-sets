@@ -15,5 +15,7 @@ The Difficult Batchelor (HCA 32/160/18, http://discovery.nationalarchives.gov.uk
 
 The Shepherd's Holiday (SP 35/22/62, http://discovery.nationalarchives.gov.uk/details/r/C15389119) is an innocent seeming ballad to the singer's "dearest dear" but the government seemed to believe this was James Stuart, son of James II. The ballad unwisely states it was printed "printed for Flora, at the sign of Aurora, in Turn-again Lane", allowing this alleged den of Catholic sympathy to be georeferenced.
 
+Two other tunes no self-respecting 18th century mariner would have been without are Hearts of Oak (https://www.youtube.com/watch?v=K3_GiLXK_KM) and Richard Leveridge's 'The Roast Beef of Old England' (https://www.youtube.com/watch?v=v5lhjYzbfco) which remains something of an earworm after nearly 300 years.
+
 If you are interested in collections metadata at scale, the National Archives API provides an endpoint to UK wide archival records data. Details on how to use it (a key is not required) can be found at:
 http://www.nationalarchives.gov.uk/help/discovery-for-developers-about-the-application-programming-interface-api/

@@ -12,5 +12,5 @@ It was subsequently kept by the Office of Works, probably on display, leading to
 
 I have included a set of the inset views of London as separate files. The last file is the full map. I looked at a big TIFF but it didn't unfortunately offer better resolution.
 
-If you are intersted in collections metadata at scale, the National Archives API provides an endpoint to UK wide archival records data. Details on how to use it (a key is not required) can be found at:
+If you are interested in collections metadata at scale, the National Archives API provides an endpoint to UK wide archival records data. Details on how to use it (a key is not required) can be found at:
 http://www.nationalarchives.gov.uk/help/discovery-for-developers-about-the-application-programming-interface-api/

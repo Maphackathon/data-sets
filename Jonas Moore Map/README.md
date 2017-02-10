@@ -9,3 +9,5 @@ The illustrations on the map are (likely) by Wenceslaus Holler.
 
 Copies of the map, produced in 1912, may be found in several other collections. The original was first used by the Navy Board.
 It was subsequently kept by the Office of Works, probably on display, leading to the light damage it has suffered.
+
+I have included a set of the inset views of London as separate files. The last file is the full map. I looked at a big TIFF but it didn't unfortunately offer better resolution.

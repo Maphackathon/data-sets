@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "GDB_SystemCatalog", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "GDB_DBTune", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "GDB_SpatialRefs", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "GDB_Items", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "GDB_ItemTypes", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "GDB_ItemRelationships", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "GDB_ItemRelationshipTypes", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "GDB_ReplicaLog", "FileFormat": 2 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "ML_PA", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "ML_PL", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "ML_WA", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "ML_PL_DISS_ELIM", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "ML_STREET_NETWORK", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_STREET_NETWORK", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "ML_WA_POINTS", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "ML_PL_POINTS", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "ML_PA_POINTS", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "ML_PL_PA", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "ML_PL_PA_POINTS", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "ML_PL_WA", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "ML_PL_WA_POINTS", "FileFormat": 0 }, "geometry": null }
+]
+}

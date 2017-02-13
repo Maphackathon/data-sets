@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "GDB_SystemCatalog", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "GDB_DBTune", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "GDB_SpatialRefs", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "GDB_Items", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "GDB_ItemTypes", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "GDB_ItemRelationships", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "GDB_ItemRelationshipTypes", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "GDB_ReplicaLog", "FileFormat": 2 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_PA_POINTS", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_PA_WA_POINTS", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_PL_PA_POINTS", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_PL_PA_WA_POINTS", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_PL_POINTS", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_PL_WA_POINTS", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_WA_POINTS", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_STREET_NETWORK", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_COUNTIES", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_PA", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_PA_DISOLVE", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_PA_THAMES", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_PA_WA", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_PL", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_PL_DISSOLVE", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_PL_PA", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_PL_PA_WA", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_PL_WA", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_PRECINCTS", "FileFormat": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "Name": "LL_WA", "FileFormat": 0 }, "geometry": null }
+]
+}
